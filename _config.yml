@@ -21,18 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "android-chrome-512x512.png"
+  avatar           : "apple-touch-icon.png"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
   bio              : "The trees come up to my window like the yearning voice of the dumb earth."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Pittsburgh, PA"
+  employer         : "University of Pittsburgh"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EM5mOIUAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mil152"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,12 +56,12 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mingxuan-l-0009b61ab"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "otdkro"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
