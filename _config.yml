@@ -22,9 +22,9 @@ repository               : "mil152/mil152.github.io"
 author:
   # Biographic information
   avatar           : "images.jpg"
-  name             : "MLE | AI4Science | Digital Transformation"
+  name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
-  bio              : "The trees come up to my window like the yearning voice of the dumb earth."
+  bio              : "MLE | AI4Science | Digital Transformation"
   location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
   uri              : # URL
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
