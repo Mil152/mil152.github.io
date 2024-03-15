@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.engineering.pitt.edu%2Fpeople%2Fstudents%2Fchemical-petroleum%2Fmingxuan-li%2F&psig=AOvVaw1qZPuNwVB6NUByDkE37Rhm&ust=1710565700487000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC7-4TA9YQDFQAAAAAdAAAAABAE"
+  avatar           : "images.jpg"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
   bio              : "The trees come up to my window like the yearning voice of the dumb earth."
