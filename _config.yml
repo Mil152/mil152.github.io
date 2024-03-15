@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon-32x32.png"
+  avatar           : "bio-photo.jpg"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
   bio              : "The trees come up to my window like the yearning voice of the dumb earth."
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=EM5mOIUAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6217-9382"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Mingxuan-Li-14/research"
 
   # Repositories and software development
