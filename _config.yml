@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mingxuan Li"
+title                    : "Cosmos Curiosity"
 title_separator          : "-"
 name                     : &name "Mingxuan Li"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "android-chrome-192x192.png"
+  avatar           : "android-chrome-512x512.png"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "The trees come up to my window like the yearning voice of the dumb earth."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
