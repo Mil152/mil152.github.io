@@ -21,7 +21,7 @@ repository               : "mil152/mil152.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "android-chrome-192x192.png"
+  avatar           : "profile.png"
   name             : "Mingxuan Li"
   pronouns         : # example: "she/her"  
   bio              : "The trees come up to my window like the yearning voice of the dumb earth."
