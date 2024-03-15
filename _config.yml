@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cosmos Curiosity"
+title                    : "Mingxuan Li"
 title_separator          : "-"
 name                     : &name "Mingxuan Li"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "mil152/mil152.github.io"
 author:
   # Biographic information
   avatar           : "images.jpg"
-  name             : "Mingxuan Li"
+  name             : "MLE | AI4Science | Digital Transformation"
   pronouns         : # example: "she/her"  
   bio              : "The trees come up to my window like the yearning voice of the dumb earth."
   location         : "Pittsburgh, PA"
