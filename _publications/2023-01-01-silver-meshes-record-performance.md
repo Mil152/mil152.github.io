@@ -15,9 +15,9 @@ We present a simulation and experimental study of silver meshes to determine the
 **Keywords**: EMI shielding, Metal ink, Reactive ion etching, Photolithography, Metal mesh, Transparent electrode
 
 
-![Table of Contents Image](/images/2024-07-01-TOC.jpg)
+![Table of Contents Image](/images/2023-07-01-TOC.jpg)
 
-![Table of Contents Image](/images/2024-07-01-TOC2.jpg)
+![Table of Contents Image](/images/2023-07-01-TOC2.jpg)
 
 [Download paper here](https://www.lamp.pitt.edu/Publications/060.pdf)
 

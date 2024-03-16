@@ -16,4 +16,4 @@ In this paper, we demonstrate a highly conductive, stretchable, and wash-durable
 
 [Download paper here](https://www.lamp.pitt.edu/Publications/059.pdf)
 
-Recommended citation: Li, Mingxuan; Zarei, Mehdi; Galante, Anthony J; Pilsbury, Brady; Walker, S Brett; LeMieux, Melbs; Leu, Paul W. (2023). "Stretchable and wash durable reactive silver ink coatings for electromagnetic interference shielding, Joule heating, and strain sensing textiles." <i>Progress in Organic Coatings</i>. 179: 107506.
+<!-- Recommended citation: Li, Mingxuan; Zarei, Mehdi; Galante, Anthony J; Pilsbury, Brady; Walker, S Brett; LeMieux, Melbs; Leu, Paul W. (2023). "Stretchable and wash durable reactive silver ink coatings for electromagnetic interference shielding, Joule heating, and strain sensing textiles." <i>Progress in Organic Coatings</i>. 179: 107506. -->
