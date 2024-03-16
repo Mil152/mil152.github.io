@@ -12,4 +12,4 @@ Flexible metal meshes created by sputter-free crack lithography for transparent 
 
 [Download paper here](em_link_here)
 
-Recommended citation: Zarei, Mehdi; Li, Mingxuan; Medvedeva, Elizabeth E; Sharma, Sooraj; Kim, Jungtaek; Shao, Zefan; Walker, S Brett; LeMieux, Melbs; Liu, Qihan; Leu, Paul W. (2024). "Flexible Embedded Metal Meshes by Sputter-Free Crack Lithography for Transparent Electrodes and Electromagnetic Interference Shielding." <i>ACS Applied Materials & Interfaces</i>.
+<!-- Recommended citation: Zarei, Mehdi; Li, Mingxuan; Medvedeva, Elizabeth E; Sharma, Sooraj; Kim, Jungtaek; Shao, Zefan; Walker, S Brett; LeMieux, Melbs; Liu, Qihan; Leu, Paul W. (2024). "Flexible Embedded Metal Meshes by Sputter-Free Crack Lithography for Transparent Electrodes and Electromagnetic Interference Shielding." <i>ACS Applied Materials & Interfaces</i>. -->
