@@ -18,7 +18,7 @@ We demonstrate the highest transparent electrode performance of crack lithograph
 
 **Keywords:** EMI shielding, metal ink, reactive-ion etching, crack lithography, metal mesh, flexible transparent electrode
 
-![Table of Contents Image](/images/2024-03-01-TOC.png)
+![Table of Contents Image](_publications/images/2024-03-01-TOC.png)
 
 [Download paper here](https://www.lamp.pitt.edu/Publications/065.pdf)
 
