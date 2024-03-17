@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m Mingxuan Li, currently diving into the depths of AI as a PhD candidate over at the University of Pittsburgh. My passion? It's all about blending AI with science and sparking a bit of digital transformation magic in this AI revolution. I’ve been knee-deep in AI-powered optics design, alongside dabbling in computational electromagnetics and Bayesian Optimization. It's like being a wizard, but with algorithms.
+I am Mingxuan Li, presently pursuing my PhD at the University of Pittsburgh, where my research is deeply rooted in the application of AI to scientific discovery, particularly focusing on AI's transformative potential in digital advancements. My work primarily explores the nexus between AI and optics design, with a significant emphasis on computational electromagnetics and Bayesian Optimization.
 
-Leading the charge at the MDS-Rely center, I’m at the helm of a project ambitiously titled “Machine Learning for EMI Shielding Design." Oh, and in my spare time, I moonlight as a reviewer for IEEE journals. Talk about wearing multiple hats, right?
+As the project leader at the MDS-Rely center, I am overseeing an innovative project titled “Machine Learning for EMI Shielding Design,” which aims to leverage machine learning techniques to enhance electromagnetic interference shielding. Additionally, I contribute as a peer reviewer for IEEE journals.
 
-Before embarking on this PhD journey, I was a chemist, mixing and brewing small molecules for pharmaceutical companies. That chapter of my life instilled in me a lasting fascination with cheminformatics—once a chemist, always a chemist, as they say.
+My academic journey commenced with a Bachelor's degree in Chemistry, during which I gained valuable experience designing and synthesizing small molecules for pharmaceutical applications. This experience has nurtured a continued interest in cheminformatics, bridging my past and present scientific explorations.
 
-Recently, I’ve dipped my toes into the open-source software pool. I kicked off a TMM solver project called [LayerLumos](https://github.com/Mil152/LayerLumos), which, not to brag, runs circles around the usual commercial solvers, being 10 times faster than what you might get from Ansys. It's surprisingly fun!
+In recent endeavors, I have ventured into the development of open-source software, initiating the TMM solver project named [LayerLumos](https://github.com/Mil152/LayerLumos). This project distinguishes itself by delivering performance that significantly surpasses that of conventional commercial solvers, offering a solution that is tenfold faster than those provided by Ansys. This achievement not only underscores the project's innovative approach but also its contribution to accelerating scientific computation.
 
-So, here I am, mixing science with a dash of humor, and always on the lookout for the next interesting project. Stick around; it’s never a dull moment!
+In summary, my academic and research activities are guided by a commitment to excellence in AI research, with a specific focus on its application to optics design and computational sciences. I am dedicated to contributing to the advancement of this field, seeking out new challenges and opportunities for innovation.
 
 
 News
