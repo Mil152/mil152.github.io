@@ -9,7 +9,7 @@ redirect_from:
 
 I am Mingxuan Li, presently pursuing my PhD at the University of Pittsburgh, where my research is deeply rooted in the application of AI to scientific discovery, particularly focusing on AI's transformative potential in digital advancements. My work primarily explores the nexus between AI and optics design, with a significant emphasis on computational electromagnetics and Bayesian Optimization.
 
-As the project leader at the MDS-Rely center, I am overseeing an innovative project titled “Machine Learning for EMI Shielding Design,” which aims to leverage machine learning techniques to enhance electromagnetic interference shielding. Additionally, I contribute as a peer reviewer for IEEE journals.
+As the project leader at the MDS-Rely center, I am overseeing an innovative project titled “Machine Learning for EMI Shielding Design”, which aims to leverage machine learning techniques to enhance electromagnetic interference shielding. Additionally, I contribute as a peer reviewer for IEEE journals.
 
 My academic journey commenced with a Bachelor's degree in Chemistry, during which I gained valuable experience designing and synthesizing small molecules for pharmaceutical applications. This experience has nurtured a continued interest in cheminformatics, bridging my past and present scientific explorations.
 
