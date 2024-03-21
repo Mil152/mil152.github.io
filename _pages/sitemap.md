@@ -9,29 +9,46 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+## Main Sections
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+Here are the main sections of my website for quick navigation:
+
+- [Publications]({{ site.baseurl }}/publications/)
+- [CV]({{ site.baseurl }}/cv/)
+- [Projects]({{ site.baseurl }}/talks/)
+
+## Pages
+
+<ul>
+{% for page in site.pages %}
+  {% if page.title %}
+  <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
 {% endfor %}
+</ul>
+
+## Posts
+
+<ul>
+{% for post in site.posts %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+## Collections
 
 {% capture written_label %}'None'{% endcapture %}
-
 {% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+    {% capture label %}{{ collection.label | capitalize }}{% endcapture %}
+    {% if label != written_label %}
+    <h2>{{ label }}</h2>
+    <ul>
+    {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+    {% for doc in collection.docs %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endfor %}
+    </ul>
   {% endunless %}
-{% endfor %}
 {% endfor %}
