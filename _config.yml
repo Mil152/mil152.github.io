@@ -290,7 +290,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-mermaid
+  - jekyll-spaceship
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
