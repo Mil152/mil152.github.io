@@ -20,6 +20,12 @@ In summary, my academic and research activities are guided by a commitment to ex
 
 News
 ======
+**September 1, 2024**  
+My summer internship as a Machine Learning Engineer Intern at Schrödinger has just wrapped up, filled with immense learning and contributions, especially in enhancing our AutoML library's training and inference speeds. Immense thanks to the entire ML team for their invaluable mentorship. Excited to leverage this enriched cloud-native MLOps experience in future machine learning ventures!
+
+**June 15, 2024**  
+We are excited to announce the first major milestone for **[JaxLayerLumos](https://github.com/Mil152/JaxLayerLumos)**, our JAX-based framework for optical simulations, which offers a lightweight, flexible, and fast alternative to traditional software, enabling complex simulations with features like gradient calculations and angled incidence support, now available for the optics and photonics community.
+
 **March 15, 2024**  
 Exciting times ahead as the [LayerLumos](https://github.com/Mil152/LayerLumos) project celebrates hitting its first major milestone, earning rave reviews from the open-source community. Here's to a year brimming with innovation and fruitful collaboration!
 
