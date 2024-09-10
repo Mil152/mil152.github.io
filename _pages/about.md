@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingxuan Li, presently pursuing my PhD at the University of Pittsburgh, where my research is deeply rooted in the application of AI to scientific discovery, particularly focusing on AI's transformative potential in digital advancements. My work primarily explores the nexus between AI and optics design, with a significant emphasis on computational electromagnetics and Bayesian Optimization.
+I am Mingxuan Li, currently pursuing my PhD at the University of Pittsburgh, where my research is deeply rooted in applying AI to scientific discovery, particularly focusing on AI's transformative potential in digital advancements. My work primarily explores the intersection between AI and optics design, with significant emphasis on computational electromagnetics and Bayesian Optimization.
 
-As the project leader at the MDS-Rely center, I am overseeing an innovative project titled “Machine Learning for EMI Shielding Design”, which aims to leverage machine learning techniques to enhance electromagnetic interference shielding. Additionally, I contribute as a peer reviewer for IEEE journals.
+As the project leader at the MDS-Rely center, I oversee an innovative project titled “Machine Learning for EMI Shielding Design,” aiming to leverage machine learning techniques to enhance electromagnetic interference shielding. Additionally, I contribute as a peer reviewer for IEEE journals.
 
-My academic journey commenced with a Bachelor's degree in Chemistry, during which I gained valuable experience designing and synthesizing small molecules for pharmaceutical applications. This experience has nurtured a continued interest in cheminformatics, bridging my past and present scientific explorations.
+My academic journey began with a Bachelor's degree in Chemistry, during which I gained valuable experience designing and synthesizing small molecules for pharmaceutical applications. This experience has fostered a continued interest in cheminformatics, bridging my past and present scientific explorations.
 
-In recent endeavors, I have ventured into the development of open-source software, initiating the TMM solver project named [LayerLumos](https://github.com/Mil152/LayerLumos). This project distinguishes itself by delivering performance that significantly surpasses that of conventional commercial solvers, offering a solution that is tenfold faster than those provided by Ansys. This achievement not only underscores the project's innovative approach but also its contribution to accelerating scientific computation.
+Recently, I have ventured into developing open-source software, spearheading the JAX-based efficient transfer-matrix method framework, **[JaxLayerLumos](https://github.com/Mil152/JaxLayerLumos)**. This project stands out by delivering performance that significantly surpasses conventional commercial solvers, offering a solution that is both more accessible and efficient. This achievement underscores the project's innovative approach and its contribution to accelerating scientific computation.
+
+Additionally, my recent internship as a Machine Learning Engineer Intern at Schrödinger has enriched my skills in cloud-native MLOps, enhancing our AutoML library's training and inference speeds and contributing to the development of profiling and benchmarking tools.
 
 In summary, my academic and research activities are guided by a commitment to excellence in AI research, with a specific focus on its application to optics design and computational sciences. I am dedicated to contributing to the advancement of this field, seeking out new challenges and opportunities for innovation.
-
 
 News
 ======
