@@ -21,6 +21,12 @@ In summary, my academic and research activities are guided by a commitment to ex
 
 News
 ======
+**November 6, 2024**  
+I'm thrilled to share that our paper, **"Discovering Multi-Layer Films for Electromagnetic Interference Shielding and Passive Cooling with Multi-Objective Active Learning,"** has been accepted by the **38th Conference on Neural Information Processing Systems (NeurIPS 2024) AI4Mat workshop**. I look forward to presenting our work at the conference in Vancouver and engaging with the research community.
+
+**October 20, 2024**  
+The **JaxLayerLumos** community continues to expand! We have launched two new packages: **JaxColor**, which facilitates structural color simulations, and **JaxLayerRF**, designed for analyzing layer properties in the RF region. These additions empower users to explore broader spectral ranges and more complex optical behaviors.
+
 **September 1, 2024**  
 My summer internship as a Machine Learning Engineer Intern at Schrödinger has just wrapped up, filled with immense learning and contributions, especially in enhancing our AutoML library's training and inference speeds. Immense thanks to the entire ML team for their invaluable mentorship. Excited to leverage this enriched cloud-native MLOps experience in future machine learning ventures!
 
